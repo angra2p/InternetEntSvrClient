@@ -1,0 +1,3 @@
+[09:48:35.285] : [CorpCard2DB] file_path=[C:\KSNET_WORK\eclipse\workspace\InternetEntSvrClient\recv\ABRR20171129_10962260C02.001], info_cd=[C02], db_driver=[org.gjt.mm.mysql.Driver], db_url=[jdbc:mysql://localhost:3307/test], db_user=[root], db_pass=[0203]
+[09:48:35.519] : data_code=[D], company_id=[6098123911], send_dt=[2017/11/23], seq_no=[2886], ApprNo=[77265903]
+[09:48:35.535] : [CorpCard2DB] Unknown column 'ApClass' in 'field list'

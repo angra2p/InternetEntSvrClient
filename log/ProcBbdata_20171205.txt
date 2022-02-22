@@ -1,0 +1,32 @@
+[15:55:36.204] : [CorpCard2DB] file_path=[C:\KSNET_WORK\eclipse\workspace\InternetEntSvrClient\recv\ABRR20171205_10962533C05.001], info_cd=[C05], db_driver=[org.gjt.mm.mysql.Driver], db_url=[jdbc:mysql://localhost:3307/test], db_user=[root], db_pass=[0203]
+[15:55:36.954] : [Settlement2DB] data_code=[D], company_id=[1428103111], send_dt=[2017/11/30], seq_no=[00000006]
+[15:55:36.969] : [Settlement2DB] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUSE ('D', '1428103111', '2017/11/30', '00000006', 'F', 'A', 'Y', '0001', '', ' at line 1
+
+
+
+
+
+
+VALUSE (
+'D', 
+'1428103111', 
+'2017/11/30', 
+'00000006', 
+'F', 
+'A', 
+'Y', 
+'0001', 
+'', 
+' at line 1
+
+
+[16:20:09.503] : [CorpCard2DB] file_path=[C:\KSNET_WORK\eclipse\workspace\InternetEntSvrClient\recv\ABRR20171205_10962533C05.002], info_cd=[C05], db_driver=[org.gjt.mm.mysql.Driver], db_url=[jdbc:mysql://localhost:3307/test], db_user=[root], db_pass=[0203]
+[16:20:09.769] : [Settlement2DB] data_code=[D], company_id=[1428103111], send_dt=[2017/11/30], seq_no=[00000006]
+[16:20:09.784] : [Settlement2DB] Unknown column 'COMPANY_ID' in 'field list'
+[16:22:20.296] : [CorpCard2DB] file_path=[C:\KSNET_WORK\eclipse\workspace\InternetEntSvrClient\recv\ABRR20171205_10962533C05.003], info_cd=[C05], db_driver=[org.gjt.mm.mysql.Driver], db_url=[jdbc:mysql://localhost:3307/test], db_user=[root], db_pass=[0203]
+[16:22:20.562] : [Settlement2DB] data_code=[D], company_id=[1428103111], send_dt=[2017/11/30], seq_no=[00000006]
+[16:22:20.578] : [Settlement2DB] Unknown column 'SEQ_NO' in 'field list'
+[16:25:32.502] : [CorpCard2DB] file_path=[C:\KSNET_WORK\eclipse\workspace\InternetEntSvrClient\recv\ABRR20171205_10962533C05.004], info_cd=[C05], db_driver=[org.gjt.mm.mysql.Driver], db_url=[jdbc:mysql://localhost:3307/test], db_user=[root], db_pass=[0203]
+[16:25:32.768] : [Settlement2DB] data_code=[D], company_id=[1428103111], send_dt=[2017/11/30], seq_no=[00000006]
+[16:25:32.783] : [Settlement2DB] data_code=[D], company_id=[1428103111], send_dt=[2017/11/30], seq_no=[00000007]
+[16:25:32.799] : [Settlement2DB] data_code=[D], company_id=[1428103111], send_dt=[2017/11/30], seq_no=[00000008]
